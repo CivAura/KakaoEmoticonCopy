@@ -1,2 +1,4 @@
-# KakaoEmoticonCopy
-"kakao emoticon copy"
+# Kakao Emoticon Copy
+* 카카오 이모티콘 복사기
+* 슬랙, 텔레그렘, 디스코드 등 타 플랫폼에서 사용하려고 만들었습니다
+* 문제시 바로 삭제
