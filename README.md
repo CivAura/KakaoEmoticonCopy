@@ -1,0 +1,2 @@
+# KakaoEmoticonCopy
+"kakao emoticon copy"
